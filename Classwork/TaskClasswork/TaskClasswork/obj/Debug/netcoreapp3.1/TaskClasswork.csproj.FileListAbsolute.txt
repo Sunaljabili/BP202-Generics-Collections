@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TaskClasswork\TaskClasswork\bin\Debug\netcoreapp3.1\TaskClasswork.exe
+C:\Users\User\Desktop\TaskClasswork\TaskClasswork\bin\Debug\netcoreapp3.1\TaskClasswork.deps.json
+C:\Users\User\Desktop\TaskClasswork\TaskClasswork\bin\Debug\netcoreapp3.1\TaskClasswork.runtimeconfig.json
+C:\Users\User\Desktop\TaskClasswork\TaskClasswork\bin\Debug\netcoreapp3.1\TaskClasswork.runtimeconfig.dev.json
+C:\Users\User\Desktop\TaskClasswork\TaskClasswork\bin\Debug\netcoreapp3.1\TaskClasswork.dll
+C:\Users\User\Desktop\TaskClasswork\TaskClasswork\bin\Debug\netcoreapp3.1\TaskClasswork.pdb
+C:\Users\User\Desktop\TaskClasswork\TaskClasswork\obj\Debug\netcoreapp3.1\TaskClasswork.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TaskClasswork\TaskClasswork\obj\Debug\netcoreapp3.1\TaskClasswork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TaskClasswork\TaskClasswork\obj\Debug\netcoreapp3.1\TaskClasswork.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TaskClasswork\TaskClasswork\obj\Debug\netcoreapp3.1\TaskClasswork.AssemblyInfo.cs
+C:\Users\User\Desktop\TaskClasswork\TaskClasswork\obj\Debug\netcoreapp3.1\TaskClasswork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TaskClasswork\TaskClasswork\obj\Debug\netcoreapp3.1\TaskClasswork.dll
+C:\Users\User\Desktop\TaskClasswork\TaskClasswork\obj\Debug\netcoreapp3.1\TaskClasswork.pdb
+C:\Users\User\Desktop\TaskClasswork\TaskClasswork\obj\Debug\netcoreapp3.1\TaskClasswork.genruntimeconfig.cache
